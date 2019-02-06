@@ -1,0 +1,614 @@
+Competentie 1 - Een geschikte computerconfiguratie samenstellen en beoordelen, een bestaande computerconfiguratie aanpassen aan gestelde eisen. 
+
+
+Deelcompetentie 1.1 - Begrippen in verband met stroom, spanning, weerstand en vermogen toelichten en correct hanteren. 
+
+ 
+
+1.1.1 De begrippen elektrische lading, stroom, weerstand, vermogen, spanning en elektrische arbeid toelichten. 
+
+1.1.2 De symbolen en eenheden van spanning, stroom, weerstand, vermogen en elektrische arbeid correct gebruiken. 
+
+1.1.3 De invloed van het toevoegen van vermogen op de totale stroom en op het ontwikkelen van warmte toelichten. 
+
+1.1.4 De soorten spanningen en stromen omschrijven, onder meer gelijkspanning en –stroom, wisselspanning en –stroom. 
+
+1.1.5 Het begrip aarding toelichten. 
+
+1.1.6 Enkele goede geleiders en isolatiematerialen opnoemen. 
+
+1.1.7 Het begrip ESD toelichten en enkele maatregelen opsommen om de gevolgen van ESD te minimaliseren. 
+
+1.1.8 De begrippen periode, frequentie en bandbreedte en hun onderling verband toelichten. 
+
+ 
+
+ 
+
+Deelcompetentie 1.2 - De werking van een computer met zijn basiscomponenten toelichten. 
+
+ 
+
+1.2.1 In het inwendige van een actuele computer de belangrijkste componenten aanwijzen, benoemen en hun functie omschrijven. 
+
+1.2.2 Het gegevenstransport tussen verschillende componenten op een moederbord toelichten, onder meer processor, bussen, geheugen. 
+
+1.2.3 De belangrijkste componenten van een processor toelichten en hun samenhang schematisch weergeven, onder meer stuurorgaan, rekenorgaan, enkele registers, klok, cachegeheugen. 
+
+1.2.4 De belangrijkste stappen onder meer halen, interpreteren en uitvoeren, van de verwerking van eenvoudige instructies beschrijven en de functie van de klok daarbij toelichten. 
+
+1.2.5 De soorten intern geheugen toelichten, onder meer cachegeheugen, werkgeheugen. 
+
+1.2.6 De basiswerking van het intern geheugen en de geheugenadressering toelichten. 
+
+1.2.7 Het onderscheid tussen (intern) geheugen en permanente gegevensopslag (storage) toelichten. 
+
+ 
+
+ 
+
+ 
+
+Deelcompetentie 1.3 - De functie en belangrijke karakteristieken van optionele componenten toelichten. 
+
+ 
+
+1.3.1 De functie en belangrijke karakteristieken van de gangbare optionele componenten toelichten, bijvoorbeeld beeldscherm, grafische kaart, muis, toetsenbord, printer, scanner, ...  
+
+1.3.2 De verschillende standaarden voor de interne en externe aansluiting van optionele componenten toelichten en de corresponderende connectoren en symbolen herkennen. 
+
+1.3.3 Het principe van stroom via usb toelichten. 
+
+1.3.4 De functie van een controller en een driver toelichten. 
+
+1.3.5 Belangrijke eenheden voor technische specificaties van optionele componenten toelichten, bijvoorbeeld bit, byte, rpm, inch, dpi, ppm, ppi, Hz, bps, ANSI lumen, ... 
+
+1.3.6 De functie, belangrijke eigenschappen, voordelen en nadelen van actuele opslagmedia toelichten. 
+
+1.3.7 De kenmerken en toepassingsgebieden van een aantal moderne batterijtypes toelichten en vergelijken. 
+
+ 
+
+ 
+
+Deelcompetentie 1.4 - Een optimale samenstelling realiseren van een computer rekening houdend met vooraf bepaalde vereisten. 
+
+ 
+
+1.4.1 Van een computer de systeemspecificaties vaststellen, onder meer type processor, capaciteit van opslagmedia en intern geheugen, aangesloten componenten en uitbreidingsmogelijkheden. 
+
+1.4.2 Verschillende actuele processoren en combinaties toelichten en deze vergelijken op basis van de performantie en het toepassingsgebied. 
+
+1.4.3 Actuele types intern geheugen toelichten in functie van hun gebruik. 
+
+1.4.4 Het belang van koeling van verschillende componenten toelichten. 
+
+1.4.5 De verschillende mogelijkheden om in koeling te voorzien toelichten, bijvoorbeeld lucht, water, passief, actief. 
+
+1.4.6 Aan de hand van technische specificaties diverse uitvoeringen van optionele componenten vergelijken. 
+
+1.4.7 Rekening houdend met het beoogde gebruik, kostprijs en performantie, een voorstel formuleren om een computer samen te stellen of te actualiseren. 
+
+1.4.8 Op de hoogte blijven van de laatste nieuwe ontwikkelingen op het gebied van hard- en software. 
+
+ 
+
+ 
+
+Deelcompetentie 1.5 - Eenvoudige manipulaties aan een computer uitvoeren. 
+
+ 
+
+1.5.1 De vereiste voorzorgsmaatregelen bij de manipulatie van computercomponenten toelichten en toepassen. 
+
+1.5.2 Bij de installatie van nieuwe componenten, rekening houden met compatibiliteit, standaardisering en bedrijfszekerheid. 
+
+1.5.3 Verschillende componenten fysisch aansluiten op of in een computer, configureren binnen het besturingssysteem, de werking controleren en zo nodig bijsturen, bijvoorbeeld intern geheugen, opslagmedia, uitbreidingskaart. 
+
+1.5.4 De performantie en stabiliteit van een bestaande computer analyseren met gebruik van tools. 
+
+1.5.5 Gelijk- en wisselspanning correct uitmeten. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Competentie 2 - Besturingssystemen en toepassingssoftware installeren, configureren en onderhouden. 
+
+ 
+
+ 
+
+Deelcompetentie 2.1 - Doel en functie van een besturingssysteem toelichten. 
+
+ 
+
+2.1.1 Het onderscheid tussen systeemprogrammatuur en toepassingsprogrammatuur toelichten. 
+
+2.1.2 De functies van een besturingssysteem toelichten. 
+
+2.1.3 Het onderscheid tussen een clientbesturingssysteem en een serverbesturingssysteem toelichten en illustreren met enkele actuele besturingssystemen. 
+
+2.1.4 Aan de hand van een eenvoudig didactisch model de modulaire architectuur van een actueel besturingssysteem toelichten. 
+
+2.1.5 Het principe en de voordelen van multitasking en multithreading toelichten. 
+
+2.1.6 De betekenis en het nut van virtueel geheugen toelichten. 
+
+2.1.7 Veel gebruikte systemen voor tekencodering toelichten, onder meer ASCII en Unicode. 
+
+2.1.8 De belangrijkste gevolgen van tekencodering toelichten. 
+
+ 
+
+ 
+
+Deelcompetentie 2.2 - Een client besturingssysteem installeren, configureren en onderhouden. 
+
+ 
+
+2.2.1 De compatibiliteit van een computer met een specifiek besturingssysteem controleren. 
+
+2.2.2 Een client besturingssysteem installeren en configureren volgens opgelegde vereisten. 
+
+2.2.3 Het belang van en de mogelijkheden om het client besturingssysteem up-to-date te houden toelichten. 
+
+2.2.4 De betekenis van de belangrijkste instellingen van het besturingssysteem toelichten en hun draagwijdte correct inschatten. 
+
+2.2.5 De verschillende niveaus van formatteren toelichten en de draagwijdte van deze operaties correct inschatten. 
+
+2.2.6 Een gegeven systeem formatteren, het partitioneren en partities aanpassen. 
+
+2.2.7 De functie en de werking van de mogelijke bestandsbeheersystemen toelichten. 
+
+2.2.8 Mogelijke fouten in het bestandsbeheersysteem opsporen en deze zo nodig herstellen. 
+
+2.2.9 Een aantal belangrijke bestanden en mappen lokaliseren, onder meer systeem- en gebruikersmappen.  
+
+2.2.10 Het opstartproces van een pc interpreteren en toelichten. 
+
+2.2.11 Bij probleemsituaties tijdens het opstartproces gericht ingrijpen. 
+
+2.2.12 Belangrijke waarden in bios interpreteren en eventueel wijzigen bijvoorbeeld 
+
+opstartvolgorde, in- en uitschakelen van onboard apparatuur, wachtwoord instellen. 
+
+2.2.13 Maatregelen om het verbruik van een computersysteem te beperken toelichten en uitvoeren.  
+
+ 
+
+ 
+
+Deelcompetentie 2.3 - Lokale gebruikersinterfaces configureren. 
+
+ 
+
+2.3.1 Gebruikersprofielen toelichten, instellen, aanpassen en verwijderen. 
+
+2.3.2 De elementen van de grafische gebruikersinterface aanpassen aan de wensen van de gebruiker. 
+
+2.3.3 De koppeling maken of verbreken tussen bestandstypes en de toepassing waarmee ze geopend worden. 
+
+2.3.4 De toegang tot het gebruik van softwarepakketten voor sommige gebruikers wel en voor anderen niet toelaten. 
+
+ 
+
+Deelcompetentie 2.4 - Bewerkingen uitvoeren op mappen en bestanden. 
+
+ 
+
+2.4.1 Toelichten waarom sommige gegevens centraal en andere lokaal bewaard worden. 
+
+2.4.2 Mappen en bestanden vlot en efficiënt creëren, kopiëren, verplaatsen, zoeken, hernoemen en verwijderen zowel in een grafische omgeving als aan de opdrachtprompt. 
+
+2.4.3 De begrippen comprimeren, decomprimeren toelichten en toepassen. 
+
+2.4.4 De verschillende gradaties van wissen toelichten. 
+
+2.4.5 Gewiste mappen herstellen. 
+
+2.4.6 Gewiste of beschadigde bestanden herstellen. 
+
+2.4.7 Offline en online synchronisatie van mappen of bestanden toelichten en toepassen. 
+
+ 
+
+Deelcompetentie 2.5 - Een softwarepakket installeren en onderhouden. 
+
+ 
+
+ 
+
+2.5.1 Toepassingssoftware installeren, configureren en de-installeren.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Competentie 3 - Een netwerk hard- en softwarematig samenstellen, documenteren, configureren, beveiligen, beheren en onderhouden. 
+
+ 
+
+ 
+
+Deelcompetentie 3.1 - Begrippen en kenmerken in verband met een actuele netwerkarchitectuur toelichten. 
+
+ 
+
+3.1.1 De diensten die in een netwerk kunnen aangeboden worden toelichten. 
+
+3.1.2 Het principe van client/server toelichten. 
+
+3.1.3 Een lagenmodel hanteren als referentiekader bij het toelichten van communicatie tussen knooppunten. 
+
+3.1.4 De soorten transportmedia van een netwerk beschrijven en de eigenschappen met elkaar vergelijken, onder meer coax, utp, stp, glasvezelkabel, datatransport over het elektriciteitsnet en draadloze connectie. 
+
+3.1.5 Kenmerken van een actuele netwerkarchitectuur toelichten. 
+
+3.1.6 Actuele fysische en logische netwerktopologieën toelichten. 
+
+3.1.7 Enkele begrippen met betrekking tot de omvang van netwerken toelichten, onder meer LAN, WAN. 
+
+3.1.8 De functie van VPN toelichten. 
+
+3.1.9 De functie van een communicatieprotocol toelichten. 
+
+3.1.10 Een actueel communicatieprotocol toelichten. 
+
+3.1.11 De noodzaak van adressering en de structuur van sommige adrestypes toelichten, onder meer MAC en IP. 
+
+3.1.12 De mogelijke technieken van adressering in een actuele netwerkarchitectuur toelichten. 
+
+3.1.13 De begrippen subnet en subnetmasker en de functie ervan toelichten. 
+
+3.1.14 De functie van de belangrijkste componenten van een netwerk toelichten, onder meer werkstation, server, repeater, access point, switch, router, gateway, noodbatterij, backbone, SAN, NAS. 
+
+3.1.15 De begrippen collision domain en broadcast domain toelichten. 
+
+3.1.16 Het begrip routing toelichten. 
+
+3.1.17 Het schema van een actueel computernetwerk tekenen en de belangrijkste componenten aanwijzen. 
+
+3.1.18 Een netwerkschema evalueren en indien nodig optimaliseren. 
+
+3.1.19 De voor- en nadelen van virtualisatie van clients en servers toelichten  
+
+3.1.20 Het begrip cloud met zijn toepassingen toelichten. 
+
+ 
+
+ 
+
+Deelcompetentie 3.2 - Componenten in een netwerk installeren. 
+
+ 
+
+3.2.1 Een netwerk met de passende componenten hardwarematig samenstellen en installeren rekening houdend met de factoren die de performantie van het netwerk beïnvloeden. 
+
+3.2.2 Het belang van en de mogelijkheden om het serverbesturingssysteem up-to-date te houden toelichten. 
+
+3.2.3 Courante netwerkbesturingssystemen opsommen en in algemene bewoordingen toelichten. 
+
+3.2.4 Een netwerkbesturingssysteem installeren. 
+
+3.2.5 De opstartprocedure van een server interpreteren en toelichten. 
+
+3.2.6 Een netwerkstation, componenten en randapparaten op een bestaand netwerk aansluiten. 
+
+3.2.7 Een bijkomende serverdienst installeren en beheren in een operationeel netwerk. 
+
+3.2.8 Gefundeerde keuzes voorstellen om een netwerk te creëren of uit te breiden. 
+
+3.2.9 De oorzaken en gevolgen van elektromagnetische interferentie toelichten. 
+
+ 
+
+ 
+
+Deelcompetentie 3.3 - Beheerstaken in een servergestuurd netwerk uitvoeren. 
+
+ 
+
+3.3.1 Toegangs- en gebruikersrechten instellen, wijzigen en beheren. 
+
+3.3.2 Gebruikersprofielen instellen en wijzigen, rekening houdend met de gemaakte afspraken. 
+
+3.3.3 Bronnen beschikbaar stellen op een netwerk. 
+
+3.3.4 Werking van DNS toelichten en instellen. 
+
+3.3.5 Werking van DHCP toelichten en instellen. 
+
+3.3.6 Vanop afstand beheerstaken uitvoeren op een server of een werkstation. 
+
+3.3.7 Bepalen welke gebeurtenissen op een netwerk automatisch geregistreerd worden in een logboek en een logboek raadplegen en interpreteren. 
+
+3.3.8 Het nut van back-ups en enkele back-upstrategieën toelichten en met elkaar vergelijken. 
+
+3.3.9 Een eenvoudige back-up uitvoeren en terugplaatsen.  
+
+ 
+
+ 
+
+Deelcompetentie 3.4 - Beheerstaken van een servergestuurd netwerk automatiseren. 
+
+ 
+
+3.4.1 Toelichten in welke context het gebruik van scripts aangewezen is. 
+
+3.4.2 Belangrijke objecten toelichten en in een script gebruiken. 
+
+3.4.3 Taken binnen een netwerkomgeving automatiseren, bijvoorbeeld bestandsbeheer, profielen, aanmeldingsscripts, het beheer van gebruikers, gebruikersgroepen, toegangs- en gebruikersrechten 
+
+3.4.4 Taken voor het beheer van serverdiensten op bepaalde tijdstippen automatisch laten uitvoeren. 
+
+ 
+
+ 
+
+Deelcompetentie 3.5 - Een netwerk beveiligen. 
+
+ 
+
+3.5.1 De gevolgen van een slecht beveiligd netwerk toelichten. 
+
+3.5.2 Actuele technieken om op onrechtmatige wijze toegang te krijgen tot een netwerk of schade aan te richten, toelichten. 
+
+3.5.3 Maatregelen om een netwerk te beveiligen toelichten, onder meer antivirus en firewall. 
+
+3.5.4 Oorzaken van fysische beschadigingen van een netwerk toelichten, onder meer elektriciteitsuitval, brand, waterschade, omgevingstemperatuur. 
+
+3.5.5 De kenmerken en het nut van een UPS toelichten. 
+
+3.5.6 De mogelijkheden van de beveiliging van een draadloos netwerk toelichten en toepassen.  
+
+ 
+
+ 
+
+
+Competentie 4 -  De mogelijkheden van kantoorpakketten gericht exploreren en toepassen. 
+
+  
+
+4.1.1 Voor het uitvoeren van een opdracht het geschikte offline of online kantoorpakket kiezen.  
+
+4.1.2 De functies van geschikte offline en online kantoorpakketten exploreren en toepassen. 
+
+4.1.3 Efficiënt tekstverwerking toepassen, onder meer stijlen, paginaopmaak, indexen, inhoudsopgave, formulieren, sjablonen, mailing. 
+
+4.1.4 Inzichtelijk met een rekenblad werken, onder meer gevorderde functies en geneste formules, draaitabellen, meerdere werkbladen, gecombineerde grafieken. 
+
+4.1.5 In een presentatiepakket een sjabloon of model opmaken en hanteren. 
+
+4.1.6 Een consistente opmaak realiseren rekening houdend met de huisstijl of NBN-normen. 
+
+4.1.7 Efficiënt gebruik maken van de helpfunctie, tools, wizards en beschikbare documentatie van kantoorpakketten.  
+
+4.1.8 Gegevens tussen verschillende kantoorpakketten uitwisselen. 
+
+ 
+
+Competentie 5 -  Een relationele databank maken en beheren. 
+
+  
+
+Deelcompetentie 5.1 -  De belangrijkste concepten in verband met een re-lationele databank toelichten. 
+
+ 
+
+5.1.1 Het begrip relationele databank en de voorwaarden waaraan een tabel in een relationeel model moet voldoen, toelichten. 
+
+5.1.2 Het begrippenkader van een relationele databank toelichten, onder meer tabel, rij, kolom, veld, record, primaire en referentiële sleutel, index, relaties, referentiële integriteit en cascading update/delete. 
+
+5.1.3 Het belang van een goed gestructureerde databank voor een applicatie toelichten, onder meer in verband met onderhoudbaarheid, integriteit, consistentie en redundantie. 
+
+  
+
+Deelcompetentie 5.2 -  Een gegevensstructuur ontwerpen, implementeren en uitbreiden. 
+
+5.2.1 Op basis van een probleemstelling een datamodel ontwikkelen, bijvoorbeeld met ERD. 
+
+5.2.2 Een datamodel omzetten in tabellen en normaliseren aan de hand van de normalisatieregels van Codd tot en met de derde normaalvorm. 
+
+5.2.3 Een datamodel implementeren in een RDBMS. 
+
+5.2.4 De gevolgen van de aanpassing van een databank correct inschatten. 
+
+5.2.5 Aan de hand van een probleemstelling de structuur van een databank correct uitbreiden. 
+
+  
+
+Deelcompetentie 5.3 -  Een relationele databank bevragen en beheren met SQL in een client-server omgeving. 
+
+ 
+
+5.3.1 Het belang van SQL als standaard voor het bevragen van een databank toelichten. 
+
+5.3.2 SQL-statements opstellen om tabellen zo efficiënt mogelijk te bevragen. 
+
+5.3.3 SQL-statements opstellen waarbij gegevens uit verschillende tabellen gecombineerd worden. 
+
+5.3.4 SQL-statements opstellen waarin gegevens gegroepeerd, gesorteerd en gefilterd getoond worden. 
+
+5.3.5 SQL-statements opstellen om gegevens uit een relationele databank efficiënt aan te passen, toe te voegen en te verwijderen. 
+
+5.3.6 SQL-statements begrijpen om een tabel toe te voegen, te verwijderen en aan te passen.  
+
+ 
+
+ 
+
+Competentie 6 -  Efficiënt software ontwikkelen. 
+
+ 
+
+Deelcompetentie 6.1 -  De achtergrond van programmeren en programmeer-talen toelichten. 
+
+  
+
+6.1.1 Een aantal voorbeelden geven van actuele programmeertalen en hun toepassingsgebieden, bijvoorbeeld webtoepassing, app, embedded systems, domotica, aansturing van machines, games ... 
+
+6.1.2 De manier waarop een programmacode wordt omgezet naar een werkend programma toelichten, onder meer compiler, interpreter. 
+
+6.1.3 Het verschil tussen hogere en lagere programmeertalen toelichten. 
+
+  
+
+Deelcompetentie 6.2 -  Een goede programmeerattitude hanteren. 
+
+  
+
+6.2.1 Een gegeven probleemstelling grondig lezen, interpreteren en er een analyse van maken alvorens te starten met de concrete uitwerking van de oplossing. 
+
+6.2.2 Een grafisch model gebruiken bij de beschrijving van de oplossing. 
+
+6.2.3 Een consequente naamgeving en schikking hanteren bij het maken van programma’s. 
+
+6.2.4 Het nut van commentaar in een programma toelichten.  
+
+6.2.5 Een programma steeds van de nodige commentaar voorzien om de leesbaarheid van de code te verhogen. 
+
+6.2.6 Een efficiënte oplossing realiseren inzake performantie, uitbreidbaarheid en consistentie. 
+
+6.2.7 Bij het programmeren rekening houden met de gebruiksvriendelijkheid van het resultaat, onder meer validatie, foutafhandeling, userinterface. 
+
+  
+
+Deelcompetentie 6.3 -  Technieken i.v.m. softwareontwikkeling op een efficiënte wijze toepassen.  
+
+  
+
+6.3.1 De basiselementen van het gestructureerd object georiënteerd programmeren kennen en toepassen, onder meer: (object)variabele, constante, gegevenstypes, scope; programmeerstructuren; arrays, lijsten; ingebouwde methodes en eigenschappen; zelf gedefinieerde functies, procedures, argumenten; klasse, object, eigenschap, gebeurtenis, methode, instantie. 
+
+6.3.2 Een class diagram gebruiken om klassen te beschrijven. 
+
+6.3.3 Het class diagram voor een gegeven probleemstelling opstellen. 
+
+6.3.4 Bij het programmeren een scheiding maken tussen de presentation layer (UI), de business layer (domein-logica) en de persistentie layer (datalayer).  
+
+6.3.5 Een bestaande library koppelen aan een oplossing. 
+
+6.3.6 De principes van objectoriëntatie toepassen, onder meer inheritance, encapsulation en polymorfism. 
+
+6.3.7 Werken met een aparte zelf gecreëerde class library.  
+
+  
+
+Deelcompetentie 6.4 -  Bij het ontwikkelen van software fouten opsporen en verbeteren. 
+
+  
+
+6.4.1 De syntaxfouten verbeteren die door de programmeeromgeving worden aangegeven. 
+
+6.4.2 De debugger inzetten voor het opsporen van runtimefouten. 
+
+6.4.3 Gegenereerde foutmeldingen interpreteren en er een oplossing voor zoeken. 
+
+6.4.4 Testgegevens opstellen zodat elke programmaregel getest wordt.  
+
+6.4.5 De bekomen resultaten evalueren en vergelijken met de gewenste resultaten op basis van de vooraf opgestelde testgegevens, om logische fouten op te sporen. 
+
+6.4.6 De mogelijke hulpbronnen gericht gebruiken, bijvoorbeeld helpfunctie, internet, autocomplete, fora, ... 
+
+  
+
+Deelcompetentie 6.5 -  Een databankserver programmatorisch manipuleren.  
+
+ 
+
+6.5.1 CRUD (create, read, update en delete) operaties uitvoeren op een relationele databank vanuit de persistentie layer. 
+
+6.5.2 De gevaren van het simultaan programmatorisch aanpassen van dezelfde gegevens, concurrency problemen, toelichten. 
+
+  
+
+Deelcompetentie 6.6 -  Een webtoepassing ontwikkelen. 
+
+ 
+
+6.6.1 Recente ontwikkelingen op gebied van webtoepassingen toelichten. 
+
+6.6.2 Een structuur van een website maken op basis van aangeleverde inhoud of criteria. 
+
+6.6.3 Mogelijkheden van client-side en server-side scripting toelichten. 
+
+6.6.4 Server-side scripting toepassen. 
+
+6.6.5 De mogelijkheden van technieken voor het doorgeven van gegevens binnen een website toelichten en toepassen. 
+
+6.6.6 De opbouw van HTML toelichten en de belangrijkste structuurelementen ervan toepassen. 
+
+6.6.7 Stijlen voor uniforme opmaak gebruiken. 
+
+6.6.8 Een webtoepassing publiceren op een intranet of op internet. 
+
+6.6.9 Een website testen in verschillende browsers en op verschillende schermen en schermformaten.
+
+
+ 
+
+Competentie 7 -  Het computergebruik in een organisatie ondersteunen.  
+
+ 
+
+Deelcompetentie 7.1 -  Configureren en beheren van kantoorpakketten ter ondersteuning van gebruikers.  
+
+ 
+
+7.1.1 Inzicht verwerven in de instellingen, de implicaties ervan op het functioneren van het pakket toelichten en gewenste aanpassingen doorvoeren.  
+
+7.1.2 Een kantoorpakket configureren volgens de wensen en de noden van de gebruikers.  
+
+ 
+
+Deelcompetentie 7.2 -  De wettelijke voorschriften toepassen en de gebruikers hierover informeren.  
+
+ 
+
+7.2.1 De wettelijke voorschriften m.b.t. tot ergonomie toelichten en toepassen.  
+
+7.2.2 Mogelijke gevolgen van het negeren van ergonomische voorschriften toelichten.  
+
+7.2.3 De wettelijke voorschriften in verband met auteurs-, portret- en citaatrecht en de wet op de privacy toelichten en toepassen.  
+
+7.2.4 Ethisch en juridisch verantwoord met informatie, computerapparatuur en –software omgaan.  
+
+ 
+
+Deelcompetentie 7.3 -  Gebruikers in een organisatie begeleiden, ondersteunen en opleiden in verband met computertoepassingen.  
+
+ 
+
+7.3.1 Zich een softwarepakket zelfstandig eigen maken.    
+
+7.3.2 Een bondige en duidelijke handleiding opstellen over het gebruik van hardware of software.  
+
+7.3.3 Nieuwe mogelijkheden van bestaande toepassingen exploreren.  
+
+7.3.4 Een digitale interface opstellen waarmee gebruikers een probleem kunnen melden.  
+
+7.3.5 Gebruikers individueel of in groep instrueren in het gebruik van hardware of software.  
+
+7.3.6 Gericht ondersteuning geven op niveau van de gebruiker.  
+
+7.3.7 Een didactisch verantwoorde presentatie geven over het gebruik van nieuwe hardware of software.  
+
+7.3.8 Op een correcte manier mondeling en schriftelijk communiceren.  
